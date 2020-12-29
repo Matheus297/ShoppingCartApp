@@ -4,7 +4,7 @@ Aplicação feito em react native, usando redux
 
 ## Comandos de instalação
 yarn
-npm install
+npm <br> install
 
 
 
