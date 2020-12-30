@@ -27,7 +27,7 @@ const ItemProduct = ({route}) => {
   }
 
   return (
-   <ScrollView>
+   <ScrollView style={{flex: 1, backgroundColor: "#fff"}} showsVerticalScrollIndicator={false}>
       <Container key={`${item.id}`}>
       <WrapperImage>
         <Foto source={{uri: item.image}} resizeMode='contain'/>

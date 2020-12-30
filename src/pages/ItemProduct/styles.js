@@ -4,8 +4,6 @@ import styled from 'styled-components';
 
 
 export const Container = styled.View`
-display: flex;
-flex: 1;
 align-items: center;
 background-color: #fff;
 `;
@@ -59,7 +57,7 @@ font-size: 16px;
 
 export const WrapperButton = styled.TouchableOpacity`
 justify-content: center;
-margin-top: 80px;
+margin-top: 90px;
 align-items: center;
 background-color: #F53B0B;
 padding: 10px 40px;
